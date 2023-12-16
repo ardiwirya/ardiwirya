@@ -23,7 +23,7 @@ technology. I'm from Indonesia, living in Aceh and is currently studying at Mali
 ![](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)
 
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/ardiwirya">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardiwirya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ardiwirya&layout=compact&langs_count=8&theme=algolia"/>
