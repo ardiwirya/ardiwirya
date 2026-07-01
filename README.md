@@ -1,7 +1,7 @@
 # Hello Everyone! 👋
 
-My name is **Ardi Wirya** and I'm a Front-End Web Developer. An Informatics Engineering student who has a great interest in the world of programming and
-technology. I'm from Indonesia, living in Aceh and is currently studying at Malikussaleh University. Front-End Web and Back-End Developer from [Dicoding](https://dicoding.com). You can find me on [Instagram](https://instagram.com/ardiwirya_),  or on [LinkedIn](https://linkedin.com/in/ardiwirya).
+My name is **Ardi Wirya** and I'm a Front-End Web Developer. An Informatics Engineering Graduate who has a great interest in the world of programming and
+technology. I'm from Indonesia, living in Medan. Front-End Web and Back-End Developer from [Dicoding](https://dicoding.com). You can find me on [Instagram](https://instagram.com/ardiwirya_),  or on [LinkedIn](https://linkedin.com/in/ardiwirya).
 
 ## 🔧 Skills
 ![](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
