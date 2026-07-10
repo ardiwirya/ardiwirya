@@ -5,7 +5,7 @@
 ### Front-End Developer
 
 <p>
-  <a href="https://www.linkedin.com/in/ardiwiryaindarto/">
+  <a href="https://www.linkedin.com/in/ardiwirya11/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ardi%20Wirya-0077b5?style=flat-square&logo=linkedin&logoColor=white">
   </a>
   <a href="https://instagram.com/ardiwirya_">
