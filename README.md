@@ -2,7 +2,7 @@
 
 ## Hola! I'm Ardi Wirya 👋 
 
-### Front-End Developer | Software Engineer 
+### Front-End Developer | Software Engineer
 
 <p>
   <a href="https://www.linkedin.com/in/ardiwiryaindarto/">
