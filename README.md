@@ -1,21 +1,43 @@
-# Ardi Wirya
+<div align="center">
+  
+### Front-End Developer | Software Engineer
 
-Frontend developer based in Bekasi, Indonesia.
+<p>
+  <a href="https://www.linkedin.com/in/ardiwiryaindarto/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ardi%20Wirya-0077b5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://ardiwirya.vercel.app">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-ardiwirya.vercel.app-black?style=flat-square&logo=vercel&logoColor=white">
+  </a>
+  <a href="mailto:ardiwiryaindarto1@gmail.com">
+    <img alt="Gmail" src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ardiwirya&style=flat-square&label=Profile+Views&color=brightgreen" alt="profile views"/>
+</p>
 
-I build frontend features for ERIS at PT Bakrie Autoparts with Angular, Ionic, and TypeScript. My current work includes authentication, routing, role-based interfaces, and REST API integration.
+</div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-18794e?style=flat-square)](https://ardiwirya.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-18794e?style=flat-square)](https://www.linkedin.com/in/ardiwiryaindarto/)
+---
 
-## Selected projects
+<p align="center">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white" alt="Ionic"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/-Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/-Express.js-000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>
+  <!-- <img src="" alt=""/> -->
+</p>
 
-| Project | What it does |
-| --- | --- |
-| [Portfolio Website](https://github.com/ardiwirya/portfolio-website) | Personal site built with Next.js, strict TypeScript, and Tailwind CSS. |
-| [NusaMart](https://github.com/ardiwirya/nusa-mart) | Online store with category browsing, flash sales, and a PostgreSQL-backed checkout. |
-| [CollabSpace](https://github.com/ardiwirya/collabspace) | Team workspace with real-time messaging, presence, and notifications. |
-| [HargaCerdas](https://github.com/ardiwirya/hargacerdas) | Pricing calculator and AI-assisted selling price recommendations for small businesses. |
-
-## Exploring next
-
-AI integrations for web apps, starting with a chatbot that answers from public documentation and links to its sources.
+<div align="center">
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ardiwirya&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ardiwirya&layout=compact&langs_count=6&theme=algolia"/>
+</div>
